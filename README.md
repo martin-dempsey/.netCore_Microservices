@@ -2,11 +2,12 @@
 # Social Network Activity Monitor
 
 ## Your Mission
-A client needs a robust and scalable solution to monitor social network activities in real-time. The client is interested in the following social networks:
+A client needs a robust and scalable solution to monitor social network activities in real-time. The client is interested in the following social networks end points:
 
-Twitter (https://takehome.io/twitter)
-Facebook (https://takehome.io/facebook)
+Twitter (https://takehome.io/twitter)  
+Facebook (https://takehome.io/facebook)  
 Instagram (https://takehome.io/instagram)
+
 
 ## Requirements:
 Microservices Architecture: Implement a microservices architecture using .NET Core. Each social network should have its own microservice.
@@ -39,8 +40,8 @@ Logging and Monitoring: Implement logging and monitoring using a tool like Seril
 Security: Ensure secure communication between microservices and the API Gateway using HTTPS and JWT authentication.
 
 ## Instructions:
-Clone the provided repository.
-Implement the solution as described above.
-Push your changes to the repository regularly.
-Provide documentation on how to run and test the solution locally.
-Ensure your code is clean, well-documented, and follows best practices.
+Clone the provided repository.  
+Implement the solution as described above.  
+Push your changes to the repository regularly.  
+Provide documentation on how to run and test the solution locally.  
+Ensure your code is clean, well-documented, and follows best practices.  
